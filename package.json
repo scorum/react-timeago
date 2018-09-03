@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/naman34/react-timeago.git"
+    "url": "https://github.com/scorum/react-timeago"
   },
   "keywords": [
     "React",
@@ -29,12 +29,12 @@
     "TimeAgo",
     "ender"
   ],
-  "author": "Naman Goel",
+  "author": "Scorum",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nmn/react-timeago/issues"
+    "url": "https://github.com/scorum/react-timeago/issues"
   },
-  "homepage": "https://github.com/nmn/react-timeago",
+  "homepage": "https://github.com/scorum/react-timeago",
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0"
   },
